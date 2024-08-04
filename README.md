@@ -178,7 +178,8 @@ int main()<br>
 }<br>
 
 Output:-![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.36%20PM.png)<br>
-![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.12%20PM.png)
+![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.12%20PM.png)<br>
+![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.27%20PM.png)<br>
 
 
 CONCLUSION:-We learnt about loops and their use case
