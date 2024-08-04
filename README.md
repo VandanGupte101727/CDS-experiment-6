@@ -177,6 +177,7 @@ int main()<br>
    return 0;<br>
 }<br>
 
+Output:-![exp5](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.36%20PM.png)<br>
 
 
 CONCLUSION:-We learnt about loops and their use case
