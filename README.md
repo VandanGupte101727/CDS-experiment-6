@@ -11,32 +11,32 @@ CODE:- <br>
 
 
 
-#include <iostream><br>
-using namespace std; <br>
+    #include <iostream>
+    using namespace std; 
 
-int main()<br>
-{<br>
-    //do-while<br>
-    cout<<"Using do while loop: "<<endl;<br>
-    int a = 10;<br>
-    do<br>
-    {<br>
-        cout<<a<<endl;<br>
-        a--;<br>
-    } while (a != 0);<br>
+    int main()
+    {
+    //do-while
+    cout<<"Using do while loop: "<<endl;
+    int a = 10;
+    do
+    {
+        cout<<a<<endl;
+        a--;
+    } while (a != 0);
 
     cout<<endl;
     cout<<endl;
 
-   //for loop<br>
-    cout<<"Using for loop: "<<endl;<br>
-    int i = 0;<br>
-    for(i = 0; i <=10;i++)<br>
-    {<br>
-        cout<<i<<endl;<br>
-    }<br>
-    cout<<endl;<br>
-    cout<<endl;<br>
+    //for loop
+    cout<<"Using for loop: "<<endl;
+    int i = 0;
+    for(i = 0; i <=10;i++)
+    {
+        cout<<i<<endl;
+    }
+    cout<<endl;
+    cout<<endl;
 
     //while loop
     cout<<"Using while: "<<endl;
@@ -174,8 +174,8 @@ int main()<br>
     cout<<endl;
     cout<<endl; 
 
-   return 0;<br>
-}<br>
+    return 0;
+    }
 
 Output:-![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.36%20PM.png)<br>
 ![exp6](https://github.com/VandanGupte101727/CDS-experiment-6/blob/main/Screenshot%202024-08-04%20at%203.30.12%20PM.png)<br>
